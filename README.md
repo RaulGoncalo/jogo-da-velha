@@ -1,11 +1,6 @@
 # Jogo da velha
 Este é um projeto utilizando as tecnoligas: HTML, CSS e Javascript.
 
-## Tecnologias utilizada
-
-**Front-end:** HTML, CSS, Javascript e Live-server
-
-
 ## Rodando localmente
 
 Clone o projeto
