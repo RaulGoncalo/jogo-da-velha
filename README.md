@@ -33,3 +33,6 @@ Inicie com
   live-server
 ```
 Ou acesse: https://raulgoncalo.github.io/jogo-da-velha/
+
+## Funcionando
+![App Screenshot](https://github.com/RaulGoncalo/jogo-da-velha/blob/main/Video_221017204340.gif)
